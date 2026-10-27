@@ -1,4 +1,4 @@
-# VHDL Project
+# VHDL Projects
 ## Fall Semester 2024 - 2025
 ## Author: Jake Ryan
 
